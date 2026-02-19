@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Workshop 1 – Academic Writing Assisted by AI",
+        "done": true
+    },
+	{
+        "id": 3,
+        "title": "Workshop 1 – Collaborative Management of Open Scientific Projects",
+        "done": false
+    },
+    {
+        "id": 2,
+        "title": "Workshop 2 – Strengthening Research Skills through AI-Assisted Literature Review ",
+        "done": false
+    },
+    {
+        "id": 4,
+        "title": "Workshop 2 – Academic Writing Assisted by AI",
+        "done": false
+    }
+]
